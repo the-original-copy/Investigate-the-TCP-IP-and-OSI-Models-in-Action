@@ -17,9 +17,11 @@ Data is detected and divided into smaller parts as it travels across the network
 
 a) Selected the simulation mode as shown in the diagram below:
 
+<div align="center>
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/eb826b6b-453c-4998-bc1a-38a8b7a71c32)
 
 Image 1: Simulation mode selected 
+</div> 
 
 b)
 Selected HTTP from the event filter list by unchecking all the check boxes and then selected HTTP from the Misc tab as shown below:
@@ -82,3 +84,7 @@ This can be confirmed using the picture below:
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/1de835f2-7ae8-42e5-91f5-be780e07c054)
 </br> Image 7: Information displayed at Layer 2
+
+c)
+
+Opened the Outbound PDU details tab as shown below:
