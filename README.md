@@ -7,5 +7,5 @@ Data is detected and divided into smaller parts as it travels across the network
 
 # Objectives
 
-Provide a base level understanding of the TCP/IP protocol suite and its relationship to the OSI model
-View the protocol layers and the associated PDU
+1. Provide a base level understanding of the TCP/IP protocol suite and its relationship to the OSI model <br/>
+2. View the protocol layers and the associated PDU
