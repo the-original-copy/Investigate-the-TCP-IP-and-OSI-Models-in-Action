@@ -58,7 +58,7 @@ The web client browser page changed to:
 ### Step 3: Explore the contents of the HTTP packet
 a)
 Clicked the first colored box under the Event List > Type column and below was the output:
-<br/>
+
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/fa5fb8b9-579d-49a0-abe5-61ccd16135aa)
 <br/>Image 6 : Details after clicking the first colored box
 
@@ -79,5 +79,6 @@ The information displayed at Layer 2 under the Out Layers column is as follows:
 3.The device encapsulates the PDU into an Ethernet frame
 
 This can be confirmed using the picture below:
+
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/1de835f2-7ae8-42e5-91f5-be780e07c054)
 </br> Image 7: Information displayed at Layer 2
