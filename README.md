@@ -18,6 +18,7 @@ Data is detected and divided into smaller parts as it travels across the network
 a) Selected the simulation mode as shown in the diagram below:
 
 <div align="center">
+  
 ![ScreenShot](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/771f46dc-1138-464c-b2c8-dfd0cc7a07bf)
 
 </div> 
@@ -26,8 +27,10 @@ b)
 Selected HTTP from the event filter list by unchecking all the check boxes and then selected HTTP from the Misc tab as shown below:
 
 <div align="center">
+  
 ![ScreenShot](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/c7ed5d8e-74bf-4054-b778-5861e972afd1)
 <br/>Image 2 : HTTP is the selected option in the event filters
+
 </div>
 
 The IPv4 and IPv6 options remain unchecked as shown below:
