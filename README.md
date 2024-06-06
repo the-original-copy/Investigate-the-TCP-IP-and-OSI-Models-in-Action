@@ -58,7 +58,7 @@ The web client browser page changed to:
 ### Step 3: Explore the contents of the HTTP packet
 a)
 Clicked the first colored box under the Event List > Type column and below was the output:
-
+<br/>
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/fa5fb8b9-579d-49a0-abe5-61ccd16135aa)
 <br/>Image 6 : Details after clicking the first colored box
 
