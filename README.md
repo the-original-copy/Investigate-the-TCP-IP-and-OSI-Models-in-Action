@@ -18,9 +18,8 @@ Data is detected and divided into smaller parts as it travels across the network
 a) Selected the simulation mode as shown in the diagram below:
 
 <div align="center">
-![image]([https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/c24b5e58-1207-4408-81c9-4f1828fe1574](https://github-production-user-asset-6210df.s3.amazonaws.com/77143082/337261221-c24b5e58-1207-4408-81c9-4f1828fe1574.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240606%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240606T122441Z&X-Amz-Expires=300&X-Amz-Signature=ae5af636746f8fb2850b672d0ac4c0d2eab321458cdd62f5870902f7531b2e9d&X-Amz-SignedHeaders=host&actor_id=77143082&key_id=0&repo_id=811326565))
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/771f46dc-1138-464c-b2c8-dfd0cc7a07bf)
 
-<br/>Image 1: Simulation mode selected 
 </div> 
 
 b)
