@@ -19,8 +19,6 @@ a) Selected the simulation mode as shown in the diagram below:
 
 <div align="center>
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/eb826b6b-453c-4998-bc1a-38a8b7a71c32)
-
-Image 1: Simulation mode selected 
 </div> 
 
 b)
