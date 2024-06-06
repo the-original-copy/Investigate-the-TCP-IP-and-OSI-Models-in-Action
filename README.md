@@ -18,7 +18,7 @@ Data is detected and divided into smaller parts as it travels across the network
 a) Selected the simulation mode as shown in the diagram below:
 
 <div align="center">
-![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/771f46dc-1138-464c-b2c8-dfd0cc7a07bf)
+![ScreenShot](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/771f46dc-1138-464c-b2c8-dfd0cc7a07bf)
 
 </div> 
 
@@ -26,13 +26,13 @@ b)
 Selected HTTP from the event filter list by unchecking all the check boxes and then selected HTTP from the Misc tab as shown below:
 
 <div align="center">
-![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/c7ed5d8e-74bf-4054-b778-5861e972afd1)
+![ScreenShot](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/c7ed5d8e-74bf-4054-b778-5861e972afd1)
 <br/>Image 2 : HTTP is the selected option in the event filters
 </div>
 
 The IPv4 and IPv6 options remain unchecked as shown below:
 
-![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/3a056f5e-3a68-4aed-a986-530ed228457b)
+![ScreenShot](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/3a056f5e-3a68-4aed-a986-530ed228457b)
 <br/>Image 3 : IPv6 Event filter list
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/7ccbabf1-f080-44ad-b180-ded9a6286980)
