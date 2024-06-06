@@ -18,8 +18,9 @@ Data is detected and divided into smaller parts as it travels across the network
 a) Selected the simulation mode as shown in the diagram below:
 
 <div align="center">
-![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/eb826b6b-453c-4998-bc1a-38a8b7a71c32)
-Image 1: Simulation mode selected 
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/c24b5e58-1207-4408-81c9-4f1828fe1574)
+
+<br/>Image 1: Simulation mode selected 
 </div> 
 
 b)
