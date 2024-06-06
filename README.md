@@ -30,10 +30,10 @@ Image 2 : HTTP is the selected option in the event filters
 The IPv4 and IPv6 options remain unchecked as shown below:
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/3a056f5e-3a68-4aed-a986-530ed228457b)
-Image 3 : IPv6 Event filter list
+<br/>Image 3 : IPv6 Event filter list
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/7ccbabf1-f080-44ad-b180-ded9a6286980)
-Image 4 : IPv4 Event Filter list
+<br/>Image 4 : IPv4 Event Filter list
 
 ### Step 2: Generate web (HTTP) traffic
 
@@ -48,7 +48,7 @@ b)
 Run the search in the browser. Clicked the capture/forward button for times and four event showed up in the event list as shown below:
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/81b47dac-6076-4f38-8df6-990bf17a57b3)
-Image 5: The events that popped up after running the search
+<br/>Image 5: The events that popped up after running the search
 
 The web client browser page changed to:
 
