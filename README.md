@@ -136,10 +136,9 @@ The source IP which is: 192.168.1.1 and the Dest IP which is: 192.168.1.254. It 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/a2867213-1e72-4036-a174-68a2b62e9a1e)
 <br/>Image 10: Outbound PDU the IP section
 
-<div/>
+</div>
 
-The common information listed under the TCP section of the outbound PDU details compared to the OSI Model is:
-The source port which is 1025 and the destination port which is 80. The OSI layer that is associated with this information is layer 4 as shown in the pictures below:
+The common information listed under the TCP section of the outbound PDU details compared to the OSI Model is: The source port which is 1025 and the destination port which is 80. The OSI layer that is associated with this information is layer 4 as shown in the pictures below:
 
 <div align="center">
 
@@ -156,7 +155,7 @@ The host can not be identified from the given information in the PDU since its n
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/b2c13a28-8b27-4a5e-bcbb-07204fb368a5)
 <br/>Image 11: Not enough information in the request header to know the host
 
-<div/>
+</div>
 
 d) 
 Clicked the next colored square and only layer one was active as shown below:
@@ -165,7 +164,7 @@ Clicked the next colored square and only layer one was active as shown below:
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/d3d01182-d5d0-4539-b61a-009db355fb19)
 
-<div/>
+</div>
 
 e)
 
@@ -175,7 +174,8 @@ Clicked the next colored square and it contained both In layers and Out Layers a
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/1c4fb93e-b4cb-40ce-932f-664e9f52c517)
 
-<div/>
+</div>
+
 
 The major differences between the 2 layers are:
 
