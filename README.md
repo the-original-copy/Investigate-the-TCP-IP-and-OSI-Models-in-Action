@@ -183,4 +183,90 @@ The major differences between the 2 layers are:
 2. In layer 3, the IP Header Src. IP of the in layer is 192.168.1.1 and a Dest IP of 192.168.1.254 while the IP Src    <br/>header of the out layer is 192.168.1.254 while the Dest Header is 192.168.1.1
 3. In layer 2, the in layer Ethernet 2 header is 0060.47CA.4DEE(Sender’s MAC Address) >> 0001.96A9.401D(Receiver MAC address) while the out layer has the Ethernet 2 header as 0001.96A9.401D(Sender’s MAC Address) >>  0060.47CA.4DEE(Receiver MAC address)
 
+f) 
+Clicked the inbound and outbound packet details as shown below:
+
+<div align="center">
+  
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/2c83a211-4792-4c0c-8c69-d3b67fd70bcc)
+Image 12: Inbound PDU details<br/>
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/48638c94-bc64-4a35-a99f-8d7fe547738d)
+Image 13: Outbound PDU details<br/>
+</div>
+
+## Part 2: Display Elements of the TCP/IP Protocol Suite
+
+### Step 1: View Additional Events
+
+a)
+Additional events that shows all the protocols used in the TCP/IP Protocol suite are as shown below:
+
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/1ec0a15f-6e8b-4aae-9f32-26c9d29503ba)
+</div>
+
+b) 
+Clicked the first DNS event in the **Type** column and explored the **OSI Model** and **PDU Details** tabs in order to note the encapsulation processes as shown below:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/a96c3211-6649-4726-8175-f6cd85466d0a)
+
+Image 14: DNS OSI Model<br/>
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/9f1c279a-d8f2-42b8-8f09-7b81491f0be9)
+
+Image 15: DNA PDU Details<br/>
+</div>
+
+c) 
+In the DNS Query tab what is listed in the **NAME** field in the DNS QUERY section is www.osi.local as shown in the picture below:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/d065a810-8fb0-444c-9847-d9f6fa3faf36)
+
+</div>
+
+d) 
+In order to see at which device the PDU was captured I clicked in the last DNS **info** colored square box in the event list. This information would be listed in the value with the field called **ADDRESS** as shown in the series of pictures below:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/cb45d603-5590-431e-81c0-c5abe8ab4742)
+
+Image 16: OSI Model PDU Information
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/edfa96f3-ec51-4b7a-95f0-5fe384b7edae)
+
+Image 17: Inbound PDU Information
+
+</div>
+
+The value listed next to address is non-existent since there is no field listed as **ADDRESS**  as shown below:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/77f19332-264c-4199-b7f8-dfbd5a3af011)
+
+Image 18: DNS Answer Section
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
