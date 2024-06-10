@@ -189,10 +189,10 @@ Clicked the inbound and outbound packet details as shown below:
 <div align="center">
   
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/2c83a211-4792-4c0c-8c69-d3b67fd70bcc)
-Image 12: Inbound PDU details<br/>
+<br/>Image 12: Inbound PDU details
 
 ![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/48638c94-bc64-4a35-a99f-8d7fe547738d)
-Image 13: Outbound PDU details<br/>
+<br/>Image 13: Outbound PDU details
 </div>
 
 ## Part 2: Display Elements of the TCP/IP Protocol Suite
@@ -256,10 +256,48 @@ Image 18: DNS Answer Section
 
 </div>
 
+e)
+Found the first HTTP event and then clicked the next TCP following the HTTP event and the OSI model Produced was as follows:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/cec67a3f-161c-4ae9-8e9e-ebf3d95a611b)
+
+</div>
+
+The information listed under items 4 and 5 are:
+**4 -> The TCP connection is successful**
+**5 -> The device set the connection state to be ESTABLISHED**
+
+f)
+I clicked the last TCP event and received and OSI model that looks as shown below:
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/a318da86-f5f6-403b-acb2-a3ed1b2a9ddd)
+
+Image 19: The OSI Model<br/>
+
+</div>
 
 
+This event is meant to close the connection between the communicating devices since the necessary information has been transmitted to the required parties.
 
 
+##Challenge Questions
+
+To know what port number the web server is listening for the web request I went to the web server’s first HTTP instance and clicked the colored square. Based on the information recieved the port number is : **1025**
+
+<div align="center">
+
+![image](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/assets/77143082/a3e2cdc6-99aa-49a2-ba1e-d4cfa520c03e)
+<br/>Image 20: OSI Model For the first HTTP instance of the web server
+
+</div>
+
+# Conclusion
+
+In conclusion, this lab provided a comprehensive introduction to the TCP/IP protocol suite and its correlation with the OSI model. Through Packet Tracer's simulation mode, we gained valuable insights into the encapsulation process of data as it traverses through the network layers. By dissecting the data into smaller pieces known as protocol data units (PDUs) and associating them with specific layers, I deepened my understanding of how information flows across the network. Lastly this lab served as a foundational exploration of Packet Tracer's functionality and the visualization of encapsulation processes.
 
 
 
