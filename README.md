@@ -1,8 +1,13 @@
+./gh-md-toc https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/tree/main/README.md
 # Investigate-the-TCP-IP-and-OSI-Models-in-Action
 
+<!--ts-->
 Table of Contents
 =================
-
+1.[Introduction](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/blob/main/README.md#introduction)
+2.[Objectives](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/edit/main/README.md#objectives)
+3.[Methodology](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/edit/main/README.md#methodology)
+  *[Part 1: Examine HTTP Web Traffic](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/edit/main/README.md#part-1-examine-http-web-traffic)
 
 
 ## Introduction
