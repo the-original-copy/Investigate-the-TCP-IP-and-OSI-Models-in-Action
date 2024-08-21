@@ -1,5 +1,10 @@
 # Investigate-the-TCP-IP-and-OSI-Models-in-Action
 
+Table of Contents
+=================
+
+
+
 ## Introduction
 
 The goal of this simulation exercise is to provide me with a basic understanding of the TCP/IP protocol suite and how it relates to the OSI model. I saw the contents of the data being transported over the network at each tier by using the simulation mode.
