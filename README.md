@@ -11,17 +11,17 @@ Table of Contents
 4 [Conclusion](https://github.com/the-original-copy/Investigate-the-TCP-IP-and-OSI-Models-in-Action/blob/main/README.md#conclusion)
 
 
-## 1. Introduction
+##  Introduction
 
 The goal of this simulation exercise is to provide me with a basic understanding of the TCP/IP protocol suite and how it relates to the OSI model. I saw the contents of the data being transported over the network at each tier by using the simulation mode.
 Data is detected and divided into smaller parts as it travels across the network, allowing the pieces to be assembled at the destination. Every component has a unique name (protocol data unit [PDU]) and is connected to a particular OSI and TCP/IP layer. Viewing every layer and its corresponding PDU is possible when using the Packet Tracer simulation mode. 
 
-## 2. Objectives
+##  Objectives
 
 1. Provide a base level understanding of the TCP/IP protocol suite and its relationship to the OSI model <br/>
 2. View the protocol layers and the associated PDU
 
-## 3. Methodology
+##  Methodology
 
 ### Part 1: Examine HTTP Web Traffic
 ### Step 1: Switch from realtime to simulation mode
@@ -306,7 +306,7 @@ To know what port number the web server is listening for the web request I went 
 
 </div>
 
-# 4. Conclusion
+#  Conclusion
 
 In conclusion, this lab provided a comprehensive introduction to the TCP/IP protocol suite and its correlation with the OSI model. Through Packet Tracer's simulation mode, we gained valuable insights into the encapsulation process of data as it traverses through the network layers. By dissecting the data into smaller pieces known as protocol data units (PDUs) and associating them with specific layers, I deepened my understanding of how information flows across the network. Lastly this lab served as a foundational exploration of Packet Tracer's functionality and the visualization of encapsulation processes.
 
